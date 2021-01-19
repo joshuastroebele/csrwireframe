@@ -14,12 +14,17 @@
 }
 .box_2 {
 }
+.shape {
+}
 .image {
 }
 .button {
 }
 .primary_button {
   color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 .heading_1 {
   font-family:'Arial', sans-serif;
@@ -76,6 +81,8 @@
   text-align:left;
 }
 .table_cell {
+}
+.connector {
 }
 .sticky_1 {
   text-align:left;
